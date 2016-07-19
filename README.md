@@ -1,4 +1,2 @@
 # hello-world
-Hello world
-
-Testing this lesson
+Trying to understand branching. This is the Readme file
